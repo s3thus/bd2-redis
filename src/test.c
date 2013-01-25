@@ -34,7 +34,7 @@ struct config
 
 char** keys=NULL;
 int num;
-char* filename="keys_1000.txt";
+char* filename="1k";
 
 static long long usec(void)
 {
